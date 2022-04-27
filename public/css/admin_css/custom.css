@@ -1,0 +1,258 @@
+.topnav-title {
+    color: #D32F2F;
+    text-transform: uppercase;
+	font-size: 14px;
+    text-align: right;
+    padding-right: 16px;
+	font-weight:bold;
+}
+.w-10{width:10%!important;}
+.w-20{width:20%!important;}
+.w-30{width:30%!important;}
+.horizontal-menu .navbar-nav > li > a {
+    padding: 5px 10px!important;
+}
+.navbar-header>.horizontal-menu{ min-width:35% !important;}
+.horizontal-menu{ min-width:55% !important;}
+.text-bold{font-weight:bold;}
+ul.top-menu{
+	margin-top:10px!important;
+}
+.m-w-39{
+	min-width:39%!important;
+}
+.panel-title .badge {
+    background: #3B81CC !important;
+}
+.dashboard_tilebox .kda-dashboard-item .mini-stat-info span {
+    font-size: 22px!important;
+}
+.error-msg{color:red;font-size:9px;}
+.mTop20{margin-top:20px!important;}
+.mBottom20{margin-bottom:20px!important;}
+.padright0{padding-right:0px!important;}
+.padleft0{padding-left:0px!important;}
+.padleft0_controllabel .control-label{padding-left:0px!important;}
+.navbar-header{ min-width:55% !important;}
+.user_empid{ font-size:11px !important;color:red!important;}
+.top-nav .username{font-size:15px!important; }
+.btn-custom-lg{font-size:13px!important;}
+.pad10{padding:10px!important;}
+.padTop0{padding-top:10px!important;}
+.readonlyalert{width:80%!important;position:absolute!important;}
+.m-bot25{margin-bottom:25px!important;}
+.m-Left240{margin-left:240px;}
+.footer-section{position:fixed!important;}
+/************************** FORM DESIGN *************************************/
+.form-horizontal .control-label { color: #3B81CC!important;}
+.form-control { background-color: #fff!important;}
+.form-horizontal .control-label { font-size: 13px!important;}
+.autocomplete_form .control-label { font-size: 12px!important;}
+.panel-title,.panel-heading{font-weight:bold!important;color:#31708f}
+.panel-list>.panel-heading { color: #32323A!important; background-color: #fafafa!important;font-weight:bold!important;border-color:#eff2f7!important;}
+.panel-list .panel-title .badge {background: #3B81CC !important;color:#fff!important;}
+.panel-heading .badge {background: #3B81CC !important;}
+.panel-heading{margin-bottom:10px!important;}
+.brand>a.logo{font-size:15px!important;}
+.display-none{display:none;}
+.panel-footer{background:#fff!important;}
+.readonly_box {
+    background: #f5f6f9!important;
+    border-radius: 10px!important;
+	cursor:not-allowed;
+    -webkit-border-radius: 10px;
+}
+.float_right{float:right!important;}
+
+.panel-details>.panel-heading {
+    color: #3973CE!important;
+    background-color: #efefef!important;
+    border-bottom: 1px solid #ddd!important;
+    border-top: 1px solid #ddd!important;
+}
+.select2-container{width:100%!important;}
+
+.w-5{width:5%;}
+.w-10{width:10%;}
+.w-15{width:15%;}
+.w-20{width:20%;}
+.w-25{width:25%;}
+.w-30{width:30%;}
+.w-100{width:100% !important;}
+
+.multi_section h4.title {
+    padding: 10px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    clear: both;
+    background: #efefef;
+    text-transform: uppercase;
+    color:#555555;
+}
+ul.sidebar-menu {
+    padding-bottom: 80px;
+}
+.nb_msg{
+	color:red;
+	font-size: 11px;
+}
+/************************* AUTO__COMPLETE **************************/
+    .autocomplete-suggestions { border: 1px solid #999; background: #FFF; overflow: auto; }
+    .autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+    .autocomplete-selected { background: #F0F0F0; }
+    .autocomplete-suggestions strong { font-weight: normal; color: #3399FF; }
+    .autocomplete-group { padding: 2px 5px; }
+    .autocomplete-group strong { display: block; border-bottom: 1px solid #000; }
+	
+.kda-dashboard-item::before {
+    background: rgba(0, 0, 0, .5)!important;
+}
+.kda-dashboard-item .mini-stat-info {
+    color: #F6F6F6!important;
+}
+.ipd-star{font-size:7px!important;}
+.search_form .form-group {
+    padding-bottom: 10px;
+}
+
+
+.incoming_action .btn {
+    width: 120px;
+    margin-bottom: 5px;
+}
+
+.kda-dashboard-item {
+    height: 80px!important;
+}
+.kda-dashboard-item.accounts {
+    background-image: url("../images/dashboard/accounts.jpg")!important;
+}
+
+.kda-dashboard-item.inventory {
+    background-image: url("../images/dashboard/inventory.jpg")!important;
+}
+
+.kda-dashboard-item.hrm {
+    background-image: url("../images/dashboard/hrm.jpg")!important;
+}
+
+.kda-dashboard-item.assets {
+    background-image: url("../images/dashboard/asset.jpg")!important;
+}
+
+.kda-dashboard-item.e-filing {
+    background-image: url("../images/dashboard/efile.jpg")!important;
+}
+
+.kda-dashboard-item.payroll {
+    background-image: url("../images/dashboard/payroll.jpg")!important;
+}
+
+.kda-dashboard-item.letter_tracking {
+    background-image: url("../images/dashboard/letter-tracking.jpg")!important;
+}
+
+.kda-dashboard-item.attendance {
+    background-image: url("../images/dashboard/attendance.jpg")!important;
+}
+
+.kda-dashboard-item.vehicle {
+    background-image: url("../images/dashboard/vehicle.jpg")!important;
+}
+
+.kda-dashboard-item.leave {
+    background-image: url("../images/dashboard/leave.jpg")!important;
+}
+
+.kda-dashboard-item.guest_house {
+    background-image: url("../images/dashboard/guest-house.jpg")!important;
+}
+
+.kda-dashboard-item.visitor_tracing {
+    background-image: url("../images/dashboard/vigitor.jpg")!important;
+}
+
+.kda-dashboard-item.help_desk {
+    background-image: url("../images/dashboard/helpdesk.jpg")!important;
+}
+
+.kda-dashboard-item.generator {
+    background-image: url("../images/dashboard/generator.jpg")!important;
+}
+
+.kda-dashboard-item.notification {
+    background-image: url("../images/dashboard/notification.jpg")!important;
+}
+
+.kda-dashboard-item.doc_management {
+    background-image: url("../images/dashboard/doc-mgt.jpg")!important;
+}
+
+.kda-dashboard-item.meeting {
+    background-image: url("../images/dashboard/meeting.jpg")!important;
+}
+
+.kda-dashboard-item.hostel {
+    background-image: url("../images/dashboard/hostel.jpg")!important;
+}
+.kda-dashboard-item.provident_fund {
+    background-image: url("../images/dashboard/provident-fund.jpg")!important;
+}
+.kda-dashboard-item.student_accounts {
+    background-image: url("../images/dashboard/students-accounts.png")!important;
+}
+.kda-dashboard-item.academic_service {
+    background-image: url("../images/dashboard/academic-services.jpg")!important;
+}
+.kda-dashboard-item.exam_service {
+    background-image: url("../images/dashboard/exam-services.jpg")!important;
+}
+.kda-dashboard-item.etender {
+    background-image: url("../images/dashboard/etender.jpg")!important;
+}
+.kda-dashboard-item.media {
+    background-image: url("../images/dashboard/media.jpg")!important;
+}
+.kda-dashboard-item.library {
+    background-image: url("../images/dashboard/library.jpg")!important;
+}
+.kda-dashboard-item.medical {
+    background-image: url("../images/dashboard/medical.jpg")!important;
+}
+
+.kda-dashboard-item.campus_tracking {
+    background-image: url("../images/dashboard/campus-tracking.jpg")!important;
+}
+.kda-dashboard-item.audit_management {
+    background-image: url("../images/dashboard/audit-mgt.jpg")!important;
+}
+.kda-dashboard-item.bi_module {
+    background-image: url("../images/dashboard/bi-module.jpg")!important;
+}
+
+
+.kda-dashboard-item.sales-inventory {
+    background-image: url("../images/dashboard/sales-inventory.jpg")!important;
+}
+
+.kda-dashboard-item.em {
+    background-image: url("../images/dashboard/exam_management.jpg")!important;
+}
+
+.kda-dashboard-item.std {
+    background-image: url("../images/dashboard/student_management.jpg")!important;
+}
+
+.kda-dashboard-item.canteen {
+    background-image: url("../images/dashboard/canteen_management.jpg")!important;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #e9ecef !important;
+    
+}
+
+	
+	
+
+
